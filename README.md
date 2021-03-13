@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on being a better person 
 - 🌱 I’m currently learning iOS developement
 - 👯 I’m looking to collaborate on iOS frameworks , cocoapods
 - 🤔 I’m looking for help with Unit testing , CI
