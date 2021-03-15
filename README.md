@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to open source ❤
+- 🔭 I’m currently working on contributing to open source ❤
 - 🌱 I’m currently learning iOS developement
 - 👯 I’m looking to collaborate on iOS frameworks , cocoapods
 - 🤔 I’m looking for help with Unit testing , CI
