@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Beginner open source contributor ❤
 - 🌱 I’m currently learning iOS developement
 - 👯 I’m looking to collaborate on iOS frameworks , cocoapods
 - 🤔 I’m looking for help with Unit testing , CI
